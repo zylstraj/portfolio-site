@@ -325,7 +325,7 @@ header{
 
 @media screen and (min-width: 850px) {
   .skill_list {
-    font-size: 1.5em;
+    font-size: double;
   }
   .nav_josh_index {
     margin-left: 1.75em;
