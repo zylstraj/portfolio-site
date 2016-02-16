@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "Portfolio site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zylstraj/portfolio-site.git"
+  },
+  "author": "Josh Zylstra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zylstraj/portfolio-site/issues"
+  },
+  "homepage": "https://github.com/zylstraj/portfolio-site#readme"
+}
